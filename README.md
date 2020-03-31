@@ -71,4 +71,10 @@ generate-json: 属性
 generateHTML: HTML
 clearable: 清除
 ```
+
+
+# 完善功能
+新增单选框、多选框、下拉框数据API接口请求
+新增表单评分、分数分析
+
 借鉴：http://tools.xiaoyaoji.cn/
